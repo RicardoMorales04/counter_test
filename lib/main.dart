@@ -17,7 +17,7 @@ void main() async {
 
   if (kIsWeb) {
     await FacebookAuth.i.webAndDesktopInitialize(
-      appId: "874664834433450",
+      appId: "390559020263384",
       cookie: true,
       xfbml: true,
       version: "v15.0",
